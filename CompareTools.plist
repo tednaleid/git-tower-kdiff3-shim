@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>ApplicationIdentifier</key>
+        <string>com.yourcompany.kdiff3</string>
+        <key>ApplicationName</key>
+        <string>kdiff3</string>
+        <key>DisplayName</key>
+        <string>kdiff3</string>
+        <key>LaunchScript</key>
+        <string>kdiff3-tower.sh</string>
+        <key>Identifier</key>
+        <string>kdiff3</string>
+        <key>SupportsMergeTool</key>
+        <true/>
+    </dict>
+</array>
+</plist>
